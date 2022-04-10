@@ -32,6 +32,7 @@
       "entryFile": "index",
       "sourceRoot": "libs/my-library/src",
       "compilerOptions": {
+        "webpack": false,
         "tsConfigPath": "libs/my-library/tsconfig.lib.json"
       }
     }
